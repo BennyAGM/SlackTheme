@@ -2,7 +2,7 @@
 @import url("https://fonts.googleapis.com/css?family=Bad+Script|Rajdhani");
 :root {
   /* Modify these to change your theme colors: */
-  --primary: #FFFFFF;
+  --primary: #000; /* The dot on the left of the name + @name box*/
   --accent: #FFFFFF;
   --text: #22FFF0;
   --background: #000;
